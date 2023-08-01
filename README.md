@@ -1,5 +1,6 @@
 
 # Exploratory Data Analysis on Dataset - Terrorism
+@by:Chandraveer Panwar
 
 Data Analysis on Terriorism data and Trying to find out the hot zones of terriorism.
 
